@@ -39,7 +39,7 @@ export default function NewQuizForm() {
         id: quizId,
         name: name,
         topicId: topicId,
-        cardIds: cardIds
+        cardIds: cardIds,
       })
     );
 
